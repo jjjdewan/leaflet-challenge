@@ -1,4 +1,4 @@
-// console.log("Step 2 working");
+console.log("Level 1 and 2 on  Earthquake Data Visulatisation are Working");
 
 
 // Create tilelayer that will be will be used to select backgrounds of map using API_KEY
